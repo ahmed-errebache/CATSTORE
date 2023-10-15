@@ -1,0 +1,9 @@
+.container {
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.default {
+  color: red;
+  font-weight: bolder;
+  list-style: upper-latin;
+}
